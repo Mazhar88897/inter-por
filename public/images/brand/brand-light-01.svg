@@ -1,0 +1,9 @@
+<svg width="100" height="50" viewBox="0 0 100 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star -->
+  <polygon points="50,5 54,20 70,20 56,30 60,45 50,35 40,45 44,30 30,20 46,20" fill="#008000" />
+
+  <!-- FBR Text -->
+  <text x="25" y="47" font-family="Arial, sans-serif" font-size="16" fill="#003399" font-weight="bold">
+    FBR Pakistan
+  </text>
+</svg>
