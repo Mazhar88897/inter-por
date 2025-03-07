@@ -13,10 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES MAK INTERNATIONALS",
-              subtitle: "HOW WE DO IT ?",
-              description: `Navigating global trade with precision and care.
-Making international business effortless for you.`,
+              title: "ABOUT THE EXHIBITION ",
+              subtitle: "Why You Should Exhibit ?",
+              description: ``,
             }}
           />
           {/* <!-- Section Title End --> */}
