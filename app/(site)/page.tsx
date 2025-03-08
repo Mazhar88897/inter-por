@@ -16,7 +16,7 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Mak Internationals",
+  title: "Rexcropllc",
   description: "This is Home for Solid Pro",
   // other metadata
 };
