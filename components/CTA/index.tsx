@@ -31,11 +31,7 @@ const CTA = () => {
               <h2 className="mb-4 w-11/12 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle4">
                 Connect With Us Today.
               </h2>
-              <p>
-              From ports to your business, we deliver excellence.
-              Empowering trade, connecting opportunities worldwide.
-              </p>
-            </motion.div>
+                         </motion.div>
             <motion.div
               variants={{
                 hidden: {
@@ -66,7 +62,7 @@ const CTA = () => {
                   
                   className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white hover:opacity-90 dark:bg-white dark:text-black"
                 >
-                makexport@yahoo.com
+                info@rexcorpllc.com
 
                   
                 </a>

@@ -56,11 +56,10 @@ const FunFact = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-              Trusted by Global Companies.
+              Trusted by Global Clients.
             </h2>
             <p className="mx-auto lg:w-11/12">
-            Simplifying the complex world of global commerce.
-            We make your business borderless.
+            ITF Intertex Portugal 2025 is a premier international textile exhibition connecting global manufacturers, buyers, and industry leaders.
             </p>
           </motion.div>
 
@@ -130,9 +129,9 @@ const FunFact = () => {
               className="animate_top text-center"
             >
               <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                5k+
+                500+
               </h3>
-              <p className="text-lg lg:text-para2">Shipment Delivered</p>
+              <p className="text-lg lg:text-para2">Client Registered </p>
             </motion.div>
           </div>
         </div>

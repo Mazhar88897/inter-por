@@ -32,7 +32,7 @@ const Hero = () => {
               </p>
             
               <div className="mt-10">
-              <p className="text-2xl font-bold text-white mb-3">
+              <p className="text-2xl font-bold text-black dark:text-white mb-3">
              EXHIBITORS 
               </p>
 

@@ -29,7 +29,7 @@ const  Footer = () => {
                 className="animate_top w-1/2 lg:w-1/4"
               >
                 <a href="/" className="relative">
-                  <Image
+                  {/* <Image
                     width={110}
                     height={80}
                     src="/images/hero/mak.png"
@@ -44,11 +44,12 @@ const  Footer = () => {
                    src="/images/hero/mak.png"
                     alt="Logo"
                     className="hidden dark:block"
-                  />
+                  /> */}
+                  <h1 className="font-bold text-3xl text-black dark:text-white">Rexcropllc</h1>
                 </a>
 
                 <p className="mb-10 mt-5">
-                  We are Mak Internationals
+                  We are Rexcorpllc
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
@@ -58,7 +59,7 @@ const  Footer = () => {
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-            makexport@yahoo.com
+         info@rexcorpllc.com
 
                 </a>
               </motion.div>
@@ -95,7 +96,7 @@ const  Footer = () => {
                         Home
                       </a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a
                         href="https://www.instagram.com/makexpo?igsh=MWZjY3oxbjNrMzgzcg=="
                         className="mb-3 inline-block hover:text-primary"
@@ -112,10 +113,10 @@ const  Footer = () => {
                       >
                         Instagram
                       </a>
-                    </li>
+                    </li> */}
                     <li>
                       <a
-                        href="https://www.linkedin.com/company/mak-international-export/"
+                        href="https://www.linkedin.com/company/rex-event-exhibitions/"
                         className="mb-3 inline-block hover:text-primary"
                         target="_blank"
                       >
@@ -190,9 +191,9 @@ const  Footer = () => {
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
                     Try Us!
                   </h4>
-                  <p className="mb-4 w-[90%]">
+                  {/* <p className="mb-4 w-[90%]">
                 Contact us to become family of Mak Internationals.
-                  </p>
+                  </p> */}
 
                 
                 </motion.div>
@@ -227,11 +228,11 @@ const  Footer = () => {
                     English
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#" className="hover:text-primary">
                     Privacy Policy
                   </a>
-                </li>
+                </li> */}
                 <li>
                   <a href="#" className="hover:text-primary">
                     Support
@@ -259,7 +260,7 @@ const  Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Mak Internationals. All rights reserved
+                &copy; {new Date().getFullYear()} Rexcropllc. All rights reserved
               </p>
             </motion.div>
 
@@ -282,7 +283,7 @@ const  Footer = () => {
               className="animate_top"
             >
               <ul className="flex items-center gap-5">
-                <li>
+                {/* <li>
                   <a target="_blank" href="https://www.facebook.com/share/18jjQV6VPZ/?mibextid=wwXIfr" aria-label="social icon">
                     <svg
                       className="fill-[#D1D8E0] transition-all duration-300 hover:fill-primary"
@@ -329,7 +330,7 @@ const  Footer = () => {
       </defs>
     </svg>
   </a>
-</li>
+</li> */}
 
                 {/* <li>
                   <a href="#" aria-label="social icon">
@@ -356,7 +357,7 @@ const  Footer = () => {
                   </a>
                 </li> */}
                 <li>
-                  <a target="_blank" href="https://www.linkedin.com/company/mak-international-export/" aria-label="social icon">
+                  <a target="_blank" href="https://www.linkedin.com/company/rex-event-exhibitions/" aria-label="social icon">
                     <svg
                       className="fill-[#D1D8E0] transition-all duration-300 hover:fill-primary"
                       width="24"

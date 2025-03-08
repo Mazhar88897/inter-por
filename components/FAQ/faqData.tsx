@@ -1,21 +1,22 @@
 import { FAQ } from "@/types/faq";
 
 const faqData: FAQ[] = [
-  {
-    id: 1,
-    quest: "How do you ensure timely delivery of shipments?",
-    ans: "We partner with reliable logistics providers and use advanced tracking systems to ensure your shipments are delivered on time, every time.",
-  },
-  {
-    id: 2,
-    quest: "What services do you offer for management?",
-    ans: "We offer end-to-end container solutions, including remote collaboration, tracking, and efficient handling at all stages of the shipping process.",
-  },
-  {
-    id: 3,
-    quest: "Can you assist with customs clearance?",
-    ans: "Yes, our experienced team handles all customs regulations, ensuring smooth clearance and compliance for your international shipments.",
-  },
+
+    {
+      id: 1,
+      quest: "When and where will the Intertex Portugal take place?",
+      ans: "The exhibition is scheduled to take place on [20 MAY : 10:00 – 18:00  /  21 MAY: 10:00 – 18:00  /  22 MAY :10:00 – 16:00] at [Europarque - Santa Maria da Feira], bringing together key industry players from Portugal to showcase the latest trends in textiles.",
+    },
+    {
+      id: 2,
+      quest: "Who can participate in the exhibition?",
+      ans: "The event is open to manufacturers, designers, retailers, wholesalers, trade representatives, and all industry professionals interested in networking and exploring new business opportunities in the denim sector.",
+    },
+    {
+      id: 3,
+      quest: "What kind of products and innovations will be showcased?",
+      ans: "Exhibitors will present a diverse range of products, including denim fabrics, ready-to-wear collections, sustainable materials, textile machinery, digital printing solutions, and more.",
+    },
 ];
 
 export default faqData;

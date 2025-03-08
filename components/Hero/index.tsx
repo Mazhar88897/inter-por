@@ -19,9 +19,11 @@ const Hero = () => {
               Rexcorp LLC is Pakistan Liaison Office of B Group & Bridgexpo USA
               </h4>
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-                We are connecting the
-                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark ">
-                 Textile World
+                We are connecting you with the
+                {/* <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark "> */}
+                 {" "}
+                 <span className="text-purple-700 dark:text-purple-500">
+                 Intertex portugal exhibition & Bangladesh denim expo
                 </span>
               </h1>
               <p className="text-yellow-500 dark:text-yellow-300 font-semibold">
@@ -95,7 +97,7 @@ const Hero = () => {
               </div> */}
             </div>
 
-            <div className="animate_right hidden md:w-1/2 lg:block">
+            <div className="animate_right items-center justify-center hidden md:w-1/2 lg:block">
               <div className="relative 2xl:-mr-7.5">
                 
                 <div className=" relative h-90 object-fill w-90">

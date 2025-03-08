@@ -267,16 +267,14 @@ const Contact = () => {
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
-                <p>651 N Broad Street Middletown
-Delaware US
-Zip Code 19709</p>
+                <p>Office no 304 Plot 55-C lane 5 bukhari commercial DHA phase 6 karachi</p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Email Address
                 </h3>
                 <p>
-                  <a href="#">makexport@yahoo.com
+                  <a href="#">info@rexcorpllc.com
                   </a>
                 </p>
               </div>
@@ -285,7 +283,7 @@ Zip Code 19709</p>
                   Phone Number
                 </h4>
                 <p>
-                  <a href="#">USA : +1(3479354842)
+                  <a href="#">+92 314 2288612
                   </a>
                   
                 </p>

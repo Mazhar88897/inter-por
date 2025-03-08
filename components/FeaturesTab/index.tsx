@@ -86,7 +86,7 @@ const FeaturesTab = () => {
                 </button>
               </div>
             </div>
-            <div
+            {/* <div
               onClick={() => setCurrentTab("tabThree")}
               className={`relative flex w-full cursor-pointer items-center gap-4 border-b border-stroke px-6 py-2 last:border-0 dark:border-strokedark md:w-auto md:border-0 xl:px-13.5 xl:py-5 ${
                 currentTab === "tabThree"
@@ -104,7 +104,7 @@ const FeaturesTab = () => {
                   Best Quotes
                 </button>
               </div>
-            </div>
+            </div> */}
           </motion.div>
           {/* <!-- Tab Menues End --> */}
 
