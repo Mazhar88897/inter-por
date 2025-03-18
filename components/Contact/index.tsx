@@ -285,9 +285,23 @@ const Contact = () => {
                 <p>
                   <a href="#">+92 314 2288612
                   </a>
+                  <p></p>
+                  <a href="#">0214 2288612
+                  </a>
                   
                 </p>
               </div>
+              <div className="mt-5 mb-7">
+                <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
+                  We are here!
+                </h3>
+                <div>
+                <a href="" className="font-bold pl-2">Instagram</a>
+                <a href="" className="font-bold pl-2">Facebook</a>
+                <a href="" className="font-bold pl-2">LinkedIn</a>
+              </div>    
+              </div>
+              
             </motion.div>
           </div>
         </div>

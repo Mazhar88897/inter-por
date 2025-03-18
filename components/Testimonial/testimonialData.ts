@@ -5,34 +5,58 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Muhammad Mazhar",
-    designation: "Logistics Manager @GlobalTradeCorp",
+    name: "Sapphire Textile Mills",
+    designation: "",
     image: image1,
-    content:
-      "Working with this company has transformed our supply chain operations. Their timely delivery and excellent service ensure we stay ahead in the global market.",
+    content: "A leading textile company known for quality and innovation in the industry.",
   },
   {
     id: 2,
-    name: "Khatija Essa",
-    designation: "CEO @TransWorldShipping",
+    name: "Mehmood Group of Industries",
+    designation: "",
     image: image2,
-    content:
-      "Their attention to detail and seamless handling of container logistics have been key to our company's success in international trade.",
+    content: "A diversified industrial group with a strong presence in the textile sector.",
   },
   {
     id: 3,
-    name: "Ghous-us-zaman",
-    designation: "Operations Head @GlobalTradeCorp",
+    name: "Nishat Chunian Ltd.",
+    designation: "",
     image: image1,
-    content:
-      "We rely on their expertise for customs clearance and container management. Their professionalism is unmatched in the industry.",
+    content: "A prominent name in textiles, offering high-quality fabrics and garments.",
   },
   {
     id: 4,
-    name: "Yusra Khan",
-    designation: "Director @TransWorldShipping",
+    name: "Artistic Milliners",
+    designation: "",
     image: image2,
-    content:
-      "Exceptional service from start to finish! Their solutions for remote collaboration and real-time tracking have simplified our shipping process significantly.",
+    content: "Renowned for its premium denim manufacturing and sustainable practices.",
+  },
+  {
+    id: 5,
+    name: "Soorty",
+    designation: "",
+    image: image1,
+    content: "A leading innovator in the denim industry, known for sustainability and creativity.",
+  },
+  {
+    id: 6,
+    name: "Naveena",
+    designation: "",
+    image: image2,
+    content: "A key player in the textile industry, producing high-end fabrics and garments.",
+  },
+  {
+    id: 7,
+    name: "Al Karam Towel",
+    designation: "",
+    image: image1,
+    content: "Specializing in premium towel manufacturing with a global market presence.",
+  },
+  {
+    id: 8,
+    name: "Sadaqat Group",
+    designation: "",
+    image: image2,
+    content: "A leader in home textiles, providing high-quality products for global markets.",
   },
 ];

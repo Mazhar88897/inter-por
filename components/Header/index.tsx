@@ -53,7 +53,7 @@ const Header = () => {
               className="w-full dark:hidden"
             />
           </a> */}
-<h1 className="font-bold text-xl text-black dark:text-white">Rexcropllc</h1>
+<h1 className="font-bold text-xl text-black dark:text-white">Rexcorpllc</h1>
                
           {/* <!-- Hamburger Toggle BTN --> */}
           <button

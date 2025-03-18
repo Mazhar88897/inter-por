@@ -3,7 +3,7 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Rexcropllc",
+  title: "Rexcorpllc",
   description: "This is Support page for Solid Pro",
   // other metadata
 };

@@ -45,7 +45,7 @@ const  Footer = () => {
                     alt="Logo"
                     className="hidden dark:block"
                   /> */}
-                  <h1 className="font-bold text-3xl text-black dark:text-white">Rexcropllc</h1>
+                  <h1 className="font-bold text-3xl text-black dark:text-white">Rexcorpllc</h1>
                 </a>
 
                 <p className="mb-10 mt-5">
@@ -260,7 +260,7 @@ const  Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Rexcropllc. All rights reserved
+                &copy; {new Date().getFullYear()} Rexcorpllc. All rights reserved
               </p>
             </motion.div>
 

@@ -14,9 +14,9 @@ import Pricing from "@/components/Pricing";
 import Contact from "@/components/Contact";
 import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
-
+import Testimonial1 from "@/components/Testimonial1";
 export const metadata: Metadata = {
-  title: "Rexcropllc",
+  title: "Rexcorpllc",
   description: "This is Home for Solid Pro",
   // other metadata
 };
@@ -30,7 +30,9 @@ export default function Home() {
 
       {/* <About /> */}
       <FeaturesTab />
+      <Testimonial1 />
       <Feature />
+
       <FunFact />
       {/* <Integration /> */}
       <CTA />
