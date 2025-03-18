@@ -27,9 +27,10 @@ export default function Home() {
       <Hero />
       <Hero2 />
       <Hero3 />
-      <Feature />
+
       {/* <About /> */}
       <FeaturesTab />
+      <Feature />
       <FunFact />
       {/* <Integration /> */}
       <CTA />

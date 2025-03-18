@@ -15,23 +15,22 @@ const Hero = () => {
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex mt-6 lg:gap-8 xl:gap-32.5">
             <div className="items-center md:w-1/2">
-              <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
+              {/* <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
               Rexcorp LLC is Pakistan Liaison Office of B Group & Bridgexpo USA
-              </h4>
+              </h4> */}
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-                We are connecting you with the
+              RexpoPllc is a leading Event and Exhibition Marketing Company specializing in 
                 {/* <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark "> */}
                  {" "}
                  <span className="text-purple-700 dark:text-purple-500">
-                 Intertex portugal exhibition & Bangladesh denim expo
+             Textile and Leather Trade Shows.
+
                 </span>
               </h1>
-              <p className="text-yellow-500 dark:text-yellow-300 font-semibold">
-             Google Form Attachment
-              </p>
+             
               <p className="pt-3">
-              The Intertex Portugal & Bangladesh Exhibition is a premier event showcasing the latest in textiles, fashion, and innovation, bringing together industry leaders from both countries. Discover groundbreaking trends, network with top professionals, and explore business opportunities in a dynamic environment where creativity meets global trade.
-              </p>
+            
+As a trusted partner, we represent distinguished companies: B-Group LLC USA, 1st Arabia Trade Shows & Conferences (Saudi Arabia), and Nihalani Event (United Arab Emirates), KFA (Turkey), Bangladesh Denim Expo (Bangladesh), Advance Textile Expo (USA), facilitating collaboration and showcasing Pakistani high-end raw material and finished goods on the global stage.  </p>
             
               {/* <div className="mt-10">
               <p className="text-2xl font-bold text-white mb-3">
@@ -95,6 +94,9 @@ const Hero = () => {
 
                
               </div> */}
+               <p className="text-yellow-500 dark:text-yellow-300 font-semibold">
+             Google Form Attachment
+              </p>
             </div>
 
             <div className="animate_right items-center justify-center hidden md:w-1/2 lg:block">
