@@ -15,6 +15,7 @@ import Contact from "@/components/Contact";
 import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 import Testimonial1 from "@/components/Testimonial1";
+import Moto from "@/components/moto";
 export const metadata: Metadata = {
   title: "Rexcorpllc",
   description: "This is Home for Solid Pro",
@@ -26,10 +27,11 @@ export default function Home() {
     <main>
       <Hero />
       <FeaturesTab />
+      <Moto />
       <Hero2 />
       <Hero3 />
-
-      {/* <About /> */}
+      
+   
 
       <Testimonial1 />
       <Feature />
