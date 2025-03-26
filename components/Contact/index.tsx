@@ -267,14 +267,14 @@ const Contact = () => {
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Our Loaction
                 </h3>
-                <p>Office no 304 Plot 55-C lane 5 bukhari commercial DHA phase 6 karachi</p>
+                <p>304, Plot 55-C, Lane No.4, Bukhari Commercial, DHA, Phase-6, Karachi, Pakistan.</p>
               </div>
               <div className="5 mb-7">
                 <h3 className="mb-4 text-metatitle3 font-medium text-black dark:text-white">
                   Email Address
                 </h3>
                 <p>
-                  <a href="#">info@rexcorpllc.com
+                  <a href="#">ABDULHAQ@REXCORPLLC.COM
                   </a>
                 </p>
               </div>
@@ -283,10 +283,10 @@ const Contact = () => {
                   Phone Number
                 </h4>
                 <p>
-                  <a href="#">+92 314 2288612
+                  <a href="#">TEL: +92-21-37121687
                   </a>
                   <p></p>
-                  <a href="#">0214 2288612
+                  <a href="#">MOB: +92-314-2288612
                   </a>
                   
                 </p>

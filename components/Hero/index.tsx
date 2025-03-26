@@ -18,18 +18,19 @@ const Hero = () => {
               {/* <h4 className="mb-4.5 text-lg font-medium text-black dark:text-white">
               Rexcorp LLC is Pakistan Liaison Office of B Group & Bridgexpo USA
               </h4> */}
-              <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero ">
-              Rexcorpllc is a leading Event and Exhibition Marketing Company specializing in 
+              <p className="mb-5 pr-16  text-black dark:text-white ">
+
                 {/* <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark "> */}
                  {" "}
                  <span className="text-purple-700 dark:text-purple-500">
-             Textile and Leather Trade Shows.
 
                 </span>
-              </h1>
+              </p>
              
               <p className="pt-3">
-            
+              Rexcorpllc is a leading Event and Exhibition Marketing Company specializing in             Textile and Leather Trade Shows.
+              Textile and Leather Trade Shows.
+
 As a trusted partner, we represent distinguished companies: B-Group LLC USA, 1st Arabia Trade Shows & Conferences (Saudi Arabia), and Nihalani Event (United Arab Emirates), KFA (Turkey), Bangladesh Denim Expo (Bangladesh), Advance Textile Expo (USA), facilitating collaboration and showcasing Pakistani high-end raw material and finished goods on the global stage.  </p>
             
               {/* <div className="mt-10">
@@ -94,7 +95,7 @@ As a trusted partner, we represent distinguished companies: B-Group LLC USA, 1st
 
                
               </div> */}
-               <p className="text-yellow-500 dark:text-yellow-300 font-semibold">
+               <p className="text-yellow-500 text-lg pt-4 dark:text-yellow-300 font-semibold">
              Google Form Attachment
               </p>
             </div>

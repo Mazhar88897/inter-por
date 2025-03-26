@@ -59,8 +59,7 @@ const FunFact = () => {
               Trusted by Global Clients.
             </h2>
             <p className="mx-auto lg:w-11/12">
-            ITF Intertex Portugal 2025 is a premier international textile exhibition connecting global manufacturers, buyers, and industry leaders.
-            </p>
+            A premier international exhibition bringing together global manufacturers, buyers, and industry leaders in the textile sector.    </p>
           </motion.div>
 
           <div className="flex flex-wrap justify-center gap-8 lg:gap-42.5">

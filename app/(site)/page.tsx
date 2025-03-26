@@ -25,11 +25,12 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <FeaturesTab />
       <Hero2 />
       <Hero3 />
 
       {/* <About /> */}
-      <FeaturesTab />
+
       <Testimonial1 />
       <Feature />
 
