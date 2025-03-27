@@ -9,71 +9,112 @@ const EventList = () => {
         <motion.div
           className="flex space-x-10 whitespace-nowrap"
           animate={{ x: ["100%", "-100%"] }}
-          transition={{ repeat: Infinity, duration: 200, ease: "easeInOut" }} // Slower & smoother
+          transition={{ repeat: Infinity, duration: 30, ease: "easeInOut" }} // Slower & smoother
         >
           <div className="flex gap-1 justify-center items-center">
-            <p className="text-lg font-semibold">
-              Advanced Textiles EXPO - 05-07 Nov 2025 - Indianapolis, USA
+            <p className="text-lg font-bold">
+            Sapphire Textile Mills 
             </p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
-              alt="USA Flag"
-              width="20"
-            />
+            <p className="pl-2 text-lg text-yellow-600 font-semibold">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
+          </div>
+          <div className="flex gap-1 justify-center items-center">
+            <p className="text-lg font-bold">
+            Mehmood Group of Industries
+            </p>
+            <p className=" pl-2 text-lg text-yellow-600 font-semibold">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
           </div>
 
           <div className="flex gap-1 justify-center items-center">
             <p className="text-lg font-semibold">
-              HOMETEX - 20-23 May 2025 - Istanbul, Turkey
+            Nishat Chunian Ltd.
             </p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
-              alt="Turkey Flag"
-              width="20"
-            />
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
           </div>
 
           <div className="flex gap-1 justify-center items-center">
             <p className="text-lg font-semibold">
-              INTERTEX Portugal - 20-22 May 2025 - Porto, Portugal
+            Artistic Milliners
             </p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
-              alt="Portugal Flag"
-              width="20"
-            />
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
           </div>
 
           <div className="flex gap-1 justify-center items-center">
             <p className="text-lg font-semibold">
-              INTERLEATHER Portugal - 20-22 May 2025 - Porto, Portugal
+            Sapphire Textile Mills 
             </p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
-              alt="Portugal Flag"
-              width="20"
-            />
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
           </div>
 
-          <div className="flex gap-1 justify-center items-center">
-            <p className="text-lg font-semibold">ITF Macao - 7-9 Nov 2025 - Macao</p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg"
-              alt="Macao Flag"
-              width="20"
-            />
+          <div className="flex gap-1 justify-center items-center ">
+            <p className="text-lg font-semibold">
+            Soorty
+            </p>
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
+            
           </div>
-
           <div className="flex gap-1 justify-center items-center">
             <p className="text-lg font-semibold">
-              INTERTEX Spain - 25-27 Nov 2025 - Madrid, Spain
+         Naveena
             </p>
-            <img
-              src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
-              alt="Spain Flag"
-              width="20"
-            />
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+            <ImagePak />
+            
           </div>
+          <div className="flex gap-1 justify-center items-center">
+            <p className="text-lg font-semibold">
+            Sadaqat Group
+            </p>
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+           
+            <ImagePak />
+            
+          </div>
+          <div className="flex gap-1 justify-center items-center">
+            <p className="text-lg font-semibold">
+            Al Karam Towel
+            </p>
+            <p className="text-lg text-yellow-600 font-semibold pl-2">
+            ★★★★★ 
+            </p>
+           <ImagePak />
+            
+          </div>
+ 
+
+          
         </motion.div>
       </div>
     </>
@@ -81,3 +122,16 @@ const EventList = () => {
 };
 
 export default EventList;
+
+
+import React from 'react'
+
+const ImagePak = () => {
+  return (
+    <div> <img
+    src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    alt="USA Flag"
+    width="20"
+  /></div>
+  )
+}
