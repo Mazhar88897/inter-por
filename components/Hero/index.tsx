@@ -95,9 +95,9 @@ As a trusted partner, we represent distinguished companies: B-Group LLC USA, 1st
 
                
               </div> */}
-               <p className="text-yellow-500 text-lg pt-4 dark:text-yellow-300 font-semibold">
+               <a href="https://docs.google.com/forms/d/e/1FAIpQLSdelasduxM4wIlzaYjXE75PVQPaCsVi08k3N_qtBVKIB20zNQ/viewform?usp=dialog" target="_target" className="text-yellow-500 text-lg pt-4 dark:text-yellow-300 font-semibold">
              Google Form Attachment
-              </p>
+              </a>
             </div>
 
             <div className="animate_right items-center justify-center hidden md:w-1/2 lg:block">

@@ -27,23 +27,23 @@ Rexcorp LLC acts as a bridge between international organizers and Pakistani comp
 
 
 `,
-    image: "/images/hero/DEMO.jpg",
-    imageDark: "/images/hero/DEMO.jpg",
+    image: "/images/hero/fuck1.jpg",
+    imageDark: "/images/hero/fuck1.jpg",
   },
   {
     id: "tabThree",
     title: "Market Expansion",
     desc1: `Our expertise in market expansion strategies helps Pakistani businesses establish a strong presence in the global market, fostering growth and opportunities for collaboration.`,
     desc2: ``,
-    image: "/images/hero/DEMO.jpg",
-    imageDark: "/images/hero/DEMO.jpg",
+    image: "/images/hero/fuck2.jpg",
+    imageDark: "/images/hero/fuck2.jpg",
   },{
     id: "tabFour",
     title: "Stand Construction ",
     desc1: `Rexcorp LLC partners with a well-known name in the stand construction industry to provide the best quality design and stand construction for Pakistani companies in global trade shows.`,
     desc2: ``,
-    image: "/images/hero/DEMO.jpg",
-    imageDark: "/images/hero/DEMO.jpg",
+    image: "/images/hero/fuck3.jpg",
+    imageDark: "/images/hero/fuck3.jpg",
   },
 ];
 
